@@ -1,7 +1,6 @@
 # charity-donation-tracker (Soroban Smart Contract)
 A decentralized charity donation tracking system built using Soroban smart contracts on the Stellar network to ensure transparency, accountability, and secure fund management
 
-<img width="1920" height="1080" alt="Screenshot (31)" src="https://github.com/user-attachments/assets/7a5a3b2d-9448-4cba-8d28-31242f2d153d" />
 <img width="1920" height="1080" alt="Screenshot (32)" src="https://github.com/user-attachments/assets/d88a5156-976a-47e0-8760-2a65d7352022" />
 
 
